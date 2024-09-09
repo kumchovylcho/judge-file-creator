@@ -1,3 +1,10 @@
+# How it works:
+
+1. Pass judge url e.g. `https://judge.softuni.org/Contests/Practice/Index/1851#0`
+2. Select file extension so the files can be created with the correct one `[.py, .java, .cs, .js]`
+3. Select destination for the folder with the exercises that will be created.
+4. Congratsulations you have made it!
+
 # How to start the project:
 
 1. Clone the repository - `git clone https://github.com/kumchovylcho/judge-file-creator`
