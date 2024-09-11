@@ -1,6 +1,6 @@
 # How it works:
 
-1. Pass judge url e.g. `https://judge.softuni.org/Contests/Practice/Index/1851#0`
+1. Pass judge url e.g. `https://judge.softuni.org/Contests/Practice/Index/1851#0` or `https://alpha.judge.softuni.org/contests/first-steps-in-coding-lab/2423/compete`(the new judge)
 2. Select file extension so the files can be created with the correct one `[.py, .java, .cs, .js]`
 3. Select destination for the folder with the exercises that will be created.
 4. Congratsulations you have made it!
