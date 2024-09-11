@@ -6,7 +6,8 @@ CONFIG = dotenv_values()
 
 ############################### ENDPOINTS #############################
 
-login_url = "https://judge.softuni.org/Account/Login"
+old_judge_login_url = "https://judge.softuni.org/Account/Login"
+alpha_judge_login_url = "https://alpha.judge.softuni.org/api/account/Login"
 
 
 ############################### CONSTANT STRINGS #############################
@@ -14,6 +15,9 @@ REQUEST_NOTICE = "Request has been made, please wait.."
 NAVIGATE_OR_URL = "Do you want to insert DIRECT URL or do you want to navigate? (insert/navigate): "
 DIRECT = "insert"
 INSERT_URL = "Insert URL: "
+
+ALPHA_JUDGE = "alpha.judge"
+ALPHA_JUDGE_JSON_BASE_URL = "https://alpha.judge.softuni.org/api/compete/"
 
 EXTENSIONS = [".js", ".py", ".cs", ".java"]
 PYTHON_EXTENSION = "py"
